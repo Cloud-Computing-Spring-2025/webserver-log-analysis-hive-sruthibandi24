@@ -108,9 +108,9 @@ docker cp hive-server:/opt/hql_output.txt hql_output.txt
 ```
 
 ## Challenges Faced
-- Data Formatting Issues:** Some log entries had inconsistencies in delimiters and required preprocessing.
--Partitioning Strategy:** Finding the right partitioning column was crucial for optimizing queries.
-- HDFS File Permissions:** Ensuring proper file permissions for Hive to access the data.
+- Data Formatting Issues: Some log entries had inconsistencies in delimiters and required preprocessing.
+-Partitioning Strategy:Finding the right partitioning column was crucial for optimizing queries.
+- HDFS File Permissions:Ensuring proper file permissions for Hive to access the data.
 
 ## Sample Input and Expected Output
 ### Sample Input (CSV Format)
